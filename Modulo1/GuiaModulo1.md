@@ -18,6 +18,8 @@ Video de apoyo:
 
 > ##Azure:
 ![](https://www.educadictos.com/wp-content/uploads/2018/08/Sin-t%C3%ADtulo-1.jpg)
+
+
 ####Veamos a Azure como un paquete o stack de servicios ofrecidos en la nube cuyo objetivo es ayudar a las organizaciones a enfrentar los retos tecnologicos que surgen dia a dia.
 Azure ofrece más de 100 servicios en la nube
 
