@@ -2,8 +2,12 @@
 
 > ##Nubes públicas, privadas e híbridas
 ![](https://www.almazena.com/wp-content/uploads/2017/07/hybrid_cloud_hosting.png)
+
+
 Video de apoyo:
 [¿Que Tipos de Cloud Existen?](https://www.youtube.com/watch?v=tW2Ut433Mrw)
+
+
 
 
 >##Tipos de nubes
