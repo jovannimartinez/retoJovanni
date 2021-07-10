@@ -42,38 +42,38 @@ Esto quiere decir que no tendra interripciones y fallos y que los datos siempre 
 1. Vertical: Agregando mas RAM o CPU a la maquina virtual
 2. Horizontal: Agregando maquinas virtuales a la configuracion
 
->### -Elasticidad:
+>#### -Elasticidad:
 Con el ajuste de escala automatico las aplicaciones ocuparan los recursos necesario.
 
->### -Agilidad:
+>#### -Agilidad:
 Facil y rapido de implementar.
 
->### -Distribución geográfica: 
+>#### -Distribución geográfica: 
 Tener datos en diferentes regiones garantiza a los clientes un mejor rendimiento.
 
->### -Recuperación ante desastres:
+>#### -Recuperación ante desastres:
 Los respados de datos y la redundancia de estos hace posible una impletemtacion confiable.
 
 ## Tipos de gastos:
 
 >1. El gasto de capital (CapEx): Involucra fuertes gastos al inicio mas los gastos de mantenimiento continuos y periodicos.
-2. El gasto operativo (OpEx): En este no hay ningún costo inicial, ya que paga por lo que usa, es un modelo basado en el consumo.
+>2. El gasto operativo (OpEx): En este no hay ningún costo inicial, ya que paga por lo que usa, es un modelo basado en el consumo.
 
 ## Computacion en la nube como modelo basado en el consumo, caracteristicas: 
 >1. Costos iniciales nulos.
-2. No es necesaria infraestructura que no se usara
-3. Si necesitas mas pagas y lo tienes
-4. Dejas de pagar cuando no lo uses
+>2. No es necesaria infraestructura que no se usara
+>3. Si necesitas mas pagas y lo tienes
+>4. Dejas de pagar cuando no lo uses
 
 ## Modelos de servicios en la nube
 
 >1. #### LaaS (Infraestructura como un servicio):
 En este modelo el proveedor de nube mantendra el hardware actualizado, lo unico que usted hara como usuario de la nube sera, el mantenimiento del S.O y la configuracion de la red
->
-2. #### PaaS (Plataforma como un servicio):
+
+>2. #### PaaS (Plataforma como un servicio):
 Este modelo a mi parecer es uno de los mas comodos ya que nosotros como usuarios lo unico que debemos hacer es cargar nuestras aplicaciones, el proveedor de la nube administrara las maquinas virtuales y todos los recuros o requisitos tanto de harware como de software.
->
-2. #### SaaS (Software como servicio):
+
+>3. #### SaaS (Software como servicio):
 Este modelo es el uso y usa la mayoria de la gente sin saber que es lo que esta usando.Debido a que el proveedor de nube hace todo por nosotros, como usuarios lo unico que debemos  hacer nosotros es proporsionar nuestras credenciales y listo.
 
 ## ¿Qué se ejecuta en cada modelo de servicio en la nube?
