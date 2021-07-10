@@ -5,11 +5,11 @@
 >## Estructura organizativa de los recursos en Azure
 
 >|Niveles   |
-| ------------ |
-|1.- Administracion de grupos|
-|2.- Suscripciones|
-|3.- Recursos de grupos|
-|4.- Recursos|
+>| ------------ |
+>|1.- Administracion de grupos|
+>|2.- Suscripciones|
+>|3.- Recursos de grupos|
+>|4.- Recursos|
 
 >1. #### Recursos: Estos serian los que usted como usuario de la nuve crea para poder ofrecer o utilizar
 >2. #### Grupos de recuros: Habiendo tantos y diferentes tipos de recursos se tuvo la necesidad de organizarlos en (Grupos de recursos) para tener una mejor organizacion.
