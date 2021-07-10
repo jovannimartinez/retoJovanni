@@ -29,5 +29,5 @@ Azure ofrece más de 100 servicios en la nube
 2. Modificar la interfaz grafica creando paneles personalizados para tener su espacio de trabajo organizado y asi sea capaz de trabajar eficientemente.
 
 > ## Azure Marketplace:
-###Se puede decir que es una plataforma en la cual  proveedores de software independientes y nuevas empresas ofrecen sus soluciones y servicios a usuarios. Todos estos servicios y soluciones deben poder correr en Azure sin ningun problema.
+### Se puede decir que es una plataforma en la cual  proveedores de software independientes y nuevas empresas ofrecen sus soluciones y servicios a usuarios. Todos estos servicios y soluciones deben poder correr en Azure sin ningun problema.
 
