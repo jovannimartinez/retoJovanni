@@ -2,10 +2,10 @@
 ![](https://adriw.com/wp-content/uploads/2019/04/Marketing-de-Servicios-1.png)
 
 ## Servicios mas destacados de Azure
->####1. Máquinas virtuales de Azure
->####2. Instancias de contenedor de Azure
->####3. Servicio de aplicaciones de Azure
->####4. Funciones de Azure (o informática sin servidor )
+>#### 1. Máquinas virtuales de Azure
+>#### 2. Instancias de contenedor de Azure
+>#### 3. Servicio de aplicaciones de Azure
+>#### 4. Funciones de Azure (o informática sin servidor )
 
 ## Maquinas virtuales
 ![](https://www.nettix.com.pe/wp-content/uploads/2020/06/xcreando-maquinas-con-virtualbox.jpg.pagespeed.ic.w08MTQMAos.jpg)
